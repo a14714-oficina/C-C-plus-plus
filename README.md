@@ -9,7 +9,7 @@ Este repositório serve para praticar, aprimorar lógica e fortalecer bases sól
 # 🇵🇹 Tecnologias Utilizadas
 - C
 - C++
-- Dev-C++, CodeBlocks ou VS Code (dependendo do projeto)
+- CodeBlocks e VS Code (dependendo do projeto)
 - Compiladores GCC / G++
 
 # 🇵🇹 Funcionalidades
